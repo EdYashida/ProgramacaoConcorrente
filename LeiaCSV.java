@@ -12,7 +12,7 @@ public class LeiaCVS {
 
   public void run() {
 
-    String arquivoCSV = "C:\\Users\\eduar\\OneDrive\\Área de Trabalho\\Códigos\\resultados - resultados.csv";
+    String arquivoCSV = "path.csv";
     BufferedReader br = null;
     String linha = "";
     String csvDivisor = ",";
